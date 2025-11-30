@@ -1,5 +1,10 @@
 # EVM Vanity Generator
 
+[![npm version](https://img.shields.io/npm/v/evm-vanity-gen.svg)](https://www.npmjs.com/package/evm-vanity-gen)
+[![npm downloads](https://img.shields.io/npm/dm/evm-vanity-gen.svg)](https://www.npmjs.com/package/evm-vanity-gen)
+[![license](https://img.shields.io/npm/l/evm-vanity-gen.svg)](https://github.com/kadxy/evm-vanity-gen/blob/main/LICENSE)
+[![Node.js Version](https://img.shields.io/node/v/evm-vanity-gen.svg)](https://nodejs.org)
+
 > A high-performance, multi-threaded vanity address generator for Ethereum and EVM-compatible chains.
 
 ## 🚀 Features
