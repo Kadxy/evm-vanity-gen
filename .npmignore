@@ -1,0 +1,12 @@
+# Development files
+.git/
+.gitignore
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Test files (if you add them later)
+test/
+*.test.js

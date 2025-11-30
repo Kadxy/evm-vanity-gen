@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "evm-vanity-gen",
+  "version": "1.0.0",
+  "description": "A lightweight, multi-threaded vanity address generator for EVM chains",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "evm-vanity": "./index.js",
+    "evmgen": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ethereum",
+    "vanity",
+    "address",
+    "generator",
+    "cli",
+    "evm",
+    "wallet",
+    "vanity-address",
+    "multi-threaded"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadxy/evm-vanity-gen.git"
+  },
+  "homepage": "https://github.com/kadxy/evm-vanity-gen#readme",
+  "bugs": {
+    "url": "https://github.com/kadxy/evm-vanity-gen/issues"
+  },
+  "author": "Kadxy",
+  "license": "MIT",
+  "packageManager": "pnpm@10.24.0",
+  "dependencies": {
+    "viem": "^2.40.3"
+  }
+}
